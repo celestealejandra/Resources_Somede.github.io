@@ -3,7 +3,7 @@ Gracias por visualizar este repositorio de recursos adicionales. Aquí se encuen
 
 ### Poster 
 
-Puedes acceder al [poster](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8iAHDvD97laOcteafbqVGgGzkmT2xL42saw&s) por medio del enlace. 
+Puedes acceder al [poster]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8iAHDvD97laOcteafbqVGgGzkmT2xL42saw&s](https://issuu.com/celestealejandradiaz/docs/ena_encodat_y_ensama_en_v_spera_de_una_nueva_enc)) por medio del enlace. 
 
 ### Material complementario 
 
