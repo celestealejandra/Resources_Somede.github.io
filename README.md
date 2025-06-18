@@ -7,9 +7,9 @@ Puedes acceder al [poster](https://issuu.com/celestealejandradiaz/docs/ena_encod
 
 ### Material complementario 
 
-[Cuadros de Comparación de items de encuesta 2002-2016](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8iAHDvD97laOcteafbqVGgGzkmT2xL42saw&s)
+[Cuadros de Comparación de items de encuesta 2002-2016](https://github.com/celestealejandra/Resources_Somede.github.io/blob/02b627efb31d3c8c38aac99ddf158571355e9866/Material/images/cuadros_items.pdf)
 
-[Cuadros de urgencias médicas y Defunciones 2016-2023](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8iAHDvD97laOcteafbqVGgGzkmT2xL42saw&s)
+[Cuadros de urgencias médicas y Defunciones 2016-2023](https://github.com/celestealejandra/Resources_Somede.github.io/blob/02b627efb31d3c8c38aac99ddf158571355e9866/Material/images/cuadros_omsma.pdf)
 
 ### Contacto 
 
